@@ -43,7 +43,7 @@ Web Dev: ReactJS, Firebase, Django, REST APIs<br>
 Embedded: Arduino, IoT integration<br>
 Tools: Git, GitHub, Postman, Notion<br>
 
-📫 Contact<br>
+# 📫 Contact<br>
 📍 Quezon City, Metro Manila<br>
 📧 [Email Link](mailto:andrewjulesmiyajima@gmail.com)<br>
 🔗 [GitHub: RikuRedfox](https://github.com/RikuRedfox)<br>
