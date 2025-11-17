@@ -24,13 +24,13 @@ Tech: Arduino, Firebase, ML models Built a real-time flood surveillance system i
 Tech: ReactJS, Django, SKLearn Created a content-based AI recommender system for food and service suggestions, integrated with booking and CRM features.
 
 # 🏢 Experience
-## Food for the Hungry – IT & Admin Support (OJT) Oct 2024 – Jan 2025
+### Food for the Hungry – IT & Admin Support (OJT) Oct 2024 – Jan 2025
 - Provided IT troubleshooting and asset management
 - Maintained internal websites and SharePoint systems
 - Supported procurement and inventory workflows
 
 # 🎓 Education
-## AMA University – BSIT (Web Development) Aug 2021 – Oct 2025
+### AMA University – BSIT (Web Development) Aug 2021 – Oct 2025
 - Capstone: AI-powered CRM and catering management system
 
 # 🧠 Skills Summary
