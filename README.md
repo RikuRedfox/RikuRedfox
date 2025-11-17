@@ -11,16 +11,16 @@ Passionate about Embedded Systems and Game Development, leveraging a comprehensi
 | Dart, PHP      | Arduino, OpenCV                 | SQLite, Bitwarden, Notion |
 
 # 📂 Featured Projects
-## 🎓 EduTechPH – AI Table of Specification Generator
+### 🎓 AppCon 2024: Undeciders – AI Table of Specification Generator
 Tech: Firebase, Gemini Chat, BcryptJS, CryptoJS Led full-stack development of an AI-powered quiz generator with secure user authentication and encrypted data handling.
 
-## 🌊 Conquestador – IoT Flood Monitoring System
-Tech: Arduino, Firebase, ML models Built a real-time flood surveillance system integrating IoT sensors and machine learning for predictive alerts.
-
-## 🕹️ UPLB Game Jam – Pygame Prototype
+### 🕹️ UPLB Game Jam – Pygame Prototype
 Tech: Python, Pygame Developed core mechanics and AI behavior for a game prototype under tight deadlines in a collaborative setting.
 
-## 🍽️ Ramelyn’s Catering CRM
+### 🌊 AppCon 2023: Conquestador – IoT Flood Monitoring System
+Tech: Arduino, Firebase, ML models Built a real-time flood surveillance system integrating IoT sensors and machine learning for predictive alerts.
+
+### 🍽️ Ramelyn’s Catering CRM
 Tech: ReactJS, Django, SKLearn Created a content-based AI recommender system for food and service suggestions, integrated with booking and CRM features.
 
 # 🏢 Experience
