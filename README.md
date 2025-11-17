@@ -45,7 +45,7 @@ Tools: Git, GitHub, Postman, Notion<br>
 
 📫 Contact<br>
 📍 Quezon City, Metro Manila<br>
-📧 [](mailto:andrewjulesmiyajima@gmail.com)<br>
+📧 [Email Link](mailto:andrewjulesmiyajima@gmail.com)<br>
 🔗 [GitHub: RikuRedfox](https://github.com/RikuRedfox)<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
