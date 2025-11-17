@@ -34,11 +34,11 @@ Tech: ReactJS, Django, SKLearn Created a content-based AI recommender system for
 - Capstone: AI-powered CRM and catering management system
 
 # 🧠 Skills Summary
-AI/ML: Gemini Prompt Engineering, SKLearn, Recommender Systems
-Security: AES-256, BcryptJS, CryptoJS
-Web Dev: ReactJS, Firebase, Django, REST APIs
-Embedded: Arduino, IoT integration
-Tools: Git, GitHub, Postman, Notion
+AI/ML: Gemini Prompt Engineering, SKLearn, Recommender Systems<br>
+Security: AES-256, BcryptJS, CryptoJS<br>
+Web Dev: ReactJS, Firebase, Django, REST APIs<br>
+Embedded: Arduino, IoT integration<br>
+Tools: Git, GitHub, Postman, Notion<br>
 
 📫 Contact<br>
 📍 Quezon City, Metro Manila<br>
