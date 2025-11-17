@@ -13,15 +13,18 @@ Passionate about Embedded Systems and Game Development, leveraging a comprehensi
 # 📂 Featured Projects
 ### 🎓 AppCon 2024: Undeciders – AI Table of Specification Generator
 Tech: Firebase, Gemini Chat, BcryptJS, CryptoJS Led full-stack development of an AI-powered quiz generator with secure user authentication and encrypted data handling.
+🔗[EduTechPH](https://appcon24.web.app)
 
 ### 🕹️ UPLB Game Jam – Pygame Prototype
 Tech: Python, Pygame Developed core mechanics and AI behavior for a game prototype under tight deadlines in a collaborative setting.
 
 ### 🌊 AppCon 2023: Conquestador – IoT Flood Monitoring System
 Tech: Arduino, Firebase, ML models Built a real-time flood surveillance system integrating IoT sensors and machine learning for predictive alerts.
+🔗[Borken Link]()
 
 ### 🍽️ Ramelyn’s Catering CRM
 Tech: ReactJS, Django, SKLearn Created a content-based AI recommender system for food and service suggestions, integrated with booking and CRM features.
+🔗[Ramelyn Catering](https://ramelyncateringservice.netlify.app)
 
 # 🏢 Experience
 ### Food for the Hungry – IT & Admin Support (OJT) Oct 2024 – Jan 2025
