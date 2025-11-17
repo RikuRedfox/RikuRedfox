@@ -11,47 +11,38 @@ Passionate about Embedded Systems and Game Development, leveraging a comprehensi
 | Dart, PHP      | Arduino, OpenCV                 | SQLite, Bitwarden, Notion |
 
 # 📂 Featured Projects
-##🎓 EduTechPH – AI Table of Specification Generator
+## 🎓 EduTechPH – AI Table of Specification Generator
 Tech: Firebase, Gemini Chat, BcryptJS, CryptoJS Led full-stack development of an AI-powered quiz generator with secure user authentication and encrypted data handling.
 
-##🌊 Conquestador – IoT Flood Monitoring System
+## 🌊 Conquestador – IoT Flood Monitoring System
 Tech: Arduino, Firebase, ML models Built a real-time flood surveillance system integrating IoT sensors and machine learning for predictive alerts.
 
-##🕹️ UPLB Game Jam – Pygame Prototype
+## 🕹️ UPLB Game Jam – Pygame Prototype
 Tech: Python, Pygame Developed core mechanics and AI behavior for a game prototype under tight deadlines in a collaborative setting.
 
-##🍽️ Ramelyn’s Catering CRM
+## 🍽️ Ramelyn’s Catering CRM
 Tech: ReactJS, Django, SKLearn Created a content-based AI recommender system for food and service suggestions, integrated with booking and CRM features.
 
-#🏢 Experience
-##Food for the Hungry – IT & Admin Support (OJT) Oct 2024 – Jan 2025
+# 🏢 Experience
+## Food for the Hungry – IT & Admin Support (OJT) Oct 2024 – Jan 2025
 - Provided IT troubleshooting and asset management
 - Maintained internal websites and SharePoint systems
 - Supported procurement and inventory workflows
 
-#🎓 Education
-##AMA University – BSIT (Web Development) Aug 2021 – Oct 2025
+# 🎓 Education
+## AMA University – BSIT (Web Development) Aug 2021 – Oct 2025
 - Capstone: AI-powered CRM and catering management system
 
-#🧠 Skills Summary
+# 🧠 Skills Summary
 AI/ML: Gemini Prompt Engineering, SKLearn, Recommender Systems
 Security: AES-256, BcryptJS, CryptoJS
 Web Dev: ReactJS, Firebase, Django, REST APIs
 Embedded: Arduino, IoT integration
 Tools: Git, GitHub, Postman, Notion
 
-📫 Contact
+📫 Contact<br>
 📍 Quezon City, Metro Manila
 📧 andrewjulesmiyajima@gmail.com
 🔗 [GitHub: RikuRedfox](https://github.com/RikuRedfox)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RikuRedfox&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=RikuRedfox&icon=2&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
