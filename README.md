@@ -41,8 +41,8 @@ Embedded: Arduino, IoT integration
 Tools: Git, GitHub, Postman, Notion
 
 📫 Contact<br>
-📍 Quezon City, Metro Manila
-📧 andrewjulesmiyajima@gmail.com
-🔗 [GitHub: RikuRedfox](https://github.com/RikuRedfox)
+📍 Quezon City, Metro Manila<br>
+📧 andrewjulesmiyajima@gmail.com<br>
+🔗 [GitHub: RikuRedfox](https://github.com/RikuRedfox)<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
