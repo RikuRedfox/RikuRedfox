@@ -8,7 +8,7 @@ Passionate about Embedded Systems and Game Development, leveraging a comprehensi
 | C, C++, Python | React, Django, Bootstrap        | Git, GitHub, Firebase     |
 | JavaScript     | React Query, MUI, jQuery        | Netlify, Vite, NGINX      |
 | HTML, CSS      | Styled-components, scikit-learn | Postman, Prettier, ESLint |
-| Dart, PHP      | Arduino, OpenCV                 | SQLite, Bitwarden, Notion |
+| Dart, PHP      | Arduino, OpenCV                 | SQLite, Notion            |
 
 # 📂 Featured Projects
 ### 🎓 AppCon 2024: Undeciders – AI Table of Specification Generator
