@@ -12,7 +12,8 @@ Passionate about Embedded Systems and Game Development, leveraging a comprehensi
 
 # 📂 Projects
 ### Capstone Game Development
-Tech: Godot (GDScript), ReactJS, MUI, Firebase - 2D Q&A math game for Grade 8 students; implemented gameplay systems, designed environments, and built a teacher-only score tracking site.
+Tech: Godot (GDScript), ReactJS, MUI, Firebase – Contributed to a fellow AMA University student’s 2D Q&A math game for Grade 8 students; implemented gameplay systems, designed environments, and built a teacher-only score tracking site.
+🔗[MathQuestWeb](https://mathquestcs.web.app/) ⬇️[Download MathQuestApp](https://github.com/RikuRedfox/mathquest/releases/download/update/MathQuest.apk)
 
 ### AppCon 2024: Undeciders – AI Table of Specification Generator
 Tech: Firebase, Gemini Chat, BcryptJS, CryptoJS - Led full-stack development of an AI-powered quiz generator with secure user authentication and encrypted data handling.
