@@ -24,7 +24,7 @@ Tech: Python, Pygame - Developed core mechanics and AI behavior for a game proto
 
 ### AppCon 2023: Conquestador – IoT Flood Monitoring System
 Tech: Arduino, Firebase, ML models - Built a real-time flood surveillance system integrating IoT sensors and machine learning for predictive alerts.
-🔗[Broken Link]()
+🔗[Broken Link]() 🔗[Online Publication](https://www.ijmcer.com/wp-content/uploads/2024/07/IJMCER_D06403040.pdf)
 
 ### Ramelyn’s Catering CRM
 Tech: ReactJS, Django, SKLearn - Created a content-based AI recommender system for food and service suggestions, integrated with booking and CRM features.
