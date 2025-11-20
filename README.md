@@ -12,21 +12,21 @@ Passionate about Embedded Systems and Game Development, leveraging a comprehensi
 
 # 📂 Projects
 ### Capstone Game Development
-Tech: Godot, GDScript, ReactJS, MUI with Firebase
+Tech: Godot (GDScript), ReactJS, MUI, Firebase - 2D Q&A math game for Grade 8 students; implemented gameplay systems, designed environments, and built a teacher-only score tracking site.
 
 ### AppCon 2024: Undeciders – AI Table of Specification Generator
-Tech: Firebase, Gemini Chat, BcryptJS, CryptoJS Led full-stack development of an AI-powered quiz generator with secure user authentication and encrypted data handling.
+Tech: Firebase, Gemini Chat, BcryptJS, CryptoJS - Led full-stack development of an AI-powered quiz generator with secure user authentication and encrypted data handling.
 🔗[EduTechPH](https://appcon24.web.app)
 
 ### UPLB Game Jam – Pygame Prototype
-Tech: Python, Pygame Developed core mechanics and AI behavior for a game prototype under tight deadlines in a collaborative setting.
+Tech: Python, Pygame - Developed core mechanics and AI behavior for a game prototype under tight deadlines in a collaborative setting.
 
 ### AppCon 2023: Conquestador – IoT Flood Monitoring System
-Tech: Arduino, Firebase, ML models Built a real-time flood surveillance system integrating IoT sensors and machine learning for predictive alerts.
+Tech: Arduino, Firebase, ML models - Built a real-time flood surveillance system integrating IoT sensors and machine learning for predictive alerts.
 🔗[Broken Link]()
 
 ### Ramelyn’s Catering CRM
-Tech: ReactJS, Django, SKLearn Created a content-based AI recommender system for food and service suggestions, integrated with booking and CRM features.
+Tech: ReactJS, Django, SKLearn - Created a content-based AI recommender system for food and service suggestions, integrated with booking and CRM features.
 🔗[Ramelyn Catering](https://ramelyncateringservice.netlify.app)
 
 # 🏢 Experience
